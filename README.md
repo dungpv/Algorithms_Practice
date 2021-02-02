@@ -1,6 +1,5 @@
-# Algorithms_Practice
+# Algorithms_Practice CheckList
 
-# Algorithms Practice CheckList
 1.  Array
 2.  Linked List (Single)
 3.  Double Linked List
