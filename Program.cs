@@ -25,8 +25,16 @@ namespace Algorithms
             //dllist.runList();
 
             //CircularLinkedList
-            CircularLinkedList cllist = new CircularLinkedList();
-            cllist.runList();
+            //CircularLinkedList cllist = new CircularLinkedList();
+            //cllist.runList();
+
+            //Stack
+            //Stack stack = new Stack();
+            //stack.runStack();
+
+            //Stack
+            Queue queue = new Queue();
+            queue.runQueue();
         }
     }
 }
