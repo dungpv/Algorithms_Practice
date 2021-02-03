@@ -32,9 +32,25 @@ namespace Algorithms
             //Stack stack = new Stack();
             //stack.runStack();
 
-            //Stack
-            Queue queue = new Queue();
-            queue.runQueue();
+            //Queue
+            //Queue queue = new Queue();
+            //queue.runQueue();
+
+            //Linear Search
+            //LinearSearch linear = new LinearSearch();
+            //linear.run();
+
+            //Binary Search
+            //BinarySearch binary = new BinarySearch();
+            //binary.run();
+
+            //Interpolation Search
+            //InterpolationSearch interpolation = new InterpolationSearch();
+            //interpolation.run();
+
+            //Hash table
+            HashTable hashTable = new HashTable();
+            hashTable.run();
         }
     }
 }
